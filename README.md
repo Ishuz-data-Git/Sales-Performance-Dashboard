@@ -30,5 +30,8 @@ The dashboard analyzes sales data and provides insights into product performance
 - Certain products contribute the majority of revenue
 - KPI metrics help monitor business growth
 
+## Live Dashboard (Google Sheets)
+https://docs.google.com/spreadsheets/d/1wd_2iGT7bcB4ewOl87AjdYw6SOpDYo04b7whw1bwIgY/edit?gid=1305067908#gid=1305067908
+
 ## Dashboard Preview
 ![Sales Dashboard](dashboard.png)
