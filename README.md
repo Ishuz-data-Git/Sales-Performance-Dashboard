@@ -22,6 +22,8 @@ The dashboard analyzes sales data and provides insights into product performance
 ## Tools Used
 - Google Sheets
 - Pivot Tables
+- Slicers
+- Charts
 - Data Visualization
 - Dashboard Design
 
